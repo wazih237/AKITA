@@ -303,10 +303,6 @@
 		text-decoration: none;
 	}
 
-		.fa.solo
-		{
-		}
-		
 			.fa.solo span
 			{
 				display: none;
@@ -736,9 +732,6 @@
 /* Logo                                                                          */
 /*********************************************************************************/
 
-	#logo
-	{
-	}
 	
 		#logo h1
 		{
@@ -764,9 +757,7 @@
 		background: #272727;
 	}
 
-		#nav-wrapper
-		{
-		}
+		
 		
 		#nav > ul
 		{
@@ -860,9 +851,6 @@
 		color: rgba(255,255,255,.2);
 	}
 	
-	#copyright .container
-	{
-	}
 	
 	#copyright a
 	{
